@@ -4,6 +4,8 @@
 
 **Website:** [feedico.io](https://feedico.io) · **Documentation:** [feedico.io/docs](https://feedico.io/docs)
 
+`feedico` · `coupon-api` · `affiliate-api` · `merchants` · `coupons` · `rest-api` · `csharp` · `dotnet` · `api-example`
+
 ---
 
 ## What this repo is
