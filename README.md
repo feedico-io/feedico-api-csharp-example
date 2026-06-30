@@ -111,7 +111,11 @@ foreach (var coupon in coupons)
 | Repo | Language |
 |------|----------|
 | [feedico-api-php-example](https://github.com/feedico-io/feedico-api-php-example) | PHP |
+| [feedico-api-python-example](https://github.com/feedico-io/feedico-api-python-example) | Python |
+| [feedico-api-node-example](https://github.com/feedico-io/feedico-api-node-example) | Node.js |
 | **This repo** | C# / .NET |
+| [feedico-api-postman](https://github.com/feedico-io/feedico-api-postman) | Postman |
+| [feedico-etl-starter](https://github.com/feedico-io/feedico-etl-starter) | ETL |
 | [feedico-wp-plugin](https://github.com/feedico-io/feedico-wp-plugin) | WordPress plugin |
 
 ---
